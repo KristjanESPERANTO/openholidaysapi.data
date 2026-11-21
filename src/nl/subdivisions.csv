@@ -66,7 +66,17 @@ NL;NL-GE-LO;;GE-LO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Lochem,EN Loche
 NL;NL-GE-LW;;GE-LW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Lingewaard,EN Lingewaard,DE Lingewaard;ZU;GE
 NL;NL-GE-MA;;GE-MA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Maasdriel,EN Maasdriel,DE Maasdriel;ZU;GE
 NL;NL-GE-MO;;GE-MO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Montferland,EN Montferland,DE Montferland;MI,ZU;GE
+NL;NL-GE-MO-DI;;GE-MO-DI;NL;NL woonplaats,EN locality,DE Ort;NL Didam,EN Didam,DE Didam;ZU;GE-MO
+NL;NL-GE-MO-GR;;GE-MO-GR;NL;NL buurtschap,EN hamlet,DE Weiler;NL Greffelkamp,EN Greffelkamp,DE Greffelkamp;ZU;GE-MO
+NL;NL-GE-MO-HO;;GE-MO-HO;NL;NL buurtschap,EN hamlet,DE Weiler;NL Holthuizen,EN Holthuizen,DE Holthuizen;ZU;GE-MO
+NL;NL-GE-MO-LO;;GE-MO-LO;NL;NL woonplaats,EN locality,DE Ort;NL Loil,EN Loil,DE Loil;ZU;GE-MO
+NL;NL-GE-MO-ND;;GE-MO-ND;NL;NL woonplaats,EN locality,DE Ort;NL Nieuw-Dijk,EN Nieuw-Dijk,DE Nieuw-Dijk;ZU;GE-MO
+NL;NL-GE-MO-OD;;GE-MO-OD;NL;NL buurtschap,EN hamlet,DE Weiler;NL Oud-Dijk,EN Oud-Dijk,DE Oud-Dijk;ZU;GE-MO
 NL;NL-GE-NB;;GE-NB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Neder-Betuwe,EN Neder-Betuwe,DE Neder-Betuwe;MI,ZU;GE
+NL;NL-GE-NB-DW;;GE-NB-DW;NL;NL woonplaats,EN locality,DE Ort;NL Dodewaard,EN Dodewaard,DE Dodewaard;ZU;GE-NB
+NL;NL-GE-NB-GE;;GE-NB-GE;NL;NL buurtschap,EN hamlet,DE Weiler;NL Gesperden,EN Gesperden,DE Gesperden;ZU;GE-NB
+NL;NL-GE-NB-HI;;GE-NB-HI;NL;NL buurtschap,EN hamlet,DE Weiler;NL Hien,EN Hien,DE Hien;ZU;GE-NB
+NL;NL-GE-NB-WE;;GE-NB-WE;NL;NL buurtschap,EN hamlet,DE Weiler;NL Wely,EN Wely,DE Wely;ZU;GE-NB
 NL;NL-GE-NI;;GE-NI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nijkerk,EN Nijkerk,DE Nijkerk;MI;GE
 NL;NL-GE-NM;;GE-NM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nijmegen,EN Nijmegen,DE Nijmegen;ZU;GE
 NL;NL-GE-NU;;GE-NU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nunspeet,EN Nunspeet,DE Nunspeet;MI;GE
@@ -131,6 +141,8 @@ NL;NL-LI-WE;;LI-WE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Weert,EN Weert,
 NL;NL-NB;NL-NB;NB;NL;NL provincie,EN province,DE Provinz;NL Noord-Brabant,EN North Brabant,DE Nordbrabant;MI,ZU;
 NL;NL-NB-AC;;NB-AC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Alphen-Chaam,EN Alphen-Chaam,DE Alphen-Chaam;ZU;NB
 NL;NL-NB-AL;;NB-AL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Altena,EN Altena,DE Altena;MI,ZU;NB
+NL;NL-NB-AL-DU;;NB-AL-DU;NL;NL woonplaats,EN locality,DE Ort;NL Dussen,EN Dussen,DE Dussen;ZU;NB-AL
+NL;NL-NB-AL-HA;;NB-AL-HA;NL;NL woonplaats,EN locality,DE Ort;NL Hank,EN Hank,DE Hank;ZU;NB-AL
 NL;NL-NB-AS;;NB-AS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Asten,EN Asten,DE Asten;ZU;NB
 NL;NL-NB-BG;;NB-BG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bergeijk,EN Bergeijk,DE Bergeijk;ZU;NB
 NL;NL-NB-BH;;NB-BH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bernheze,EN Bernheze,DE Bernheze;ZU;NB
@@ -265,6 +277,8 @@ NL;NL-UT-BK;;UT-BK;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bunnik,EN Bunni
 NL;NL-UT-BS;;UT-BS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bunschoten,EN Bunschoten,DE Bunschoten;MI;UT
 NL;NL-UT-DB;;UT-DB;NL;NL gemeente,EN municipality,DE Gemeinde;NL De Bilt,EN De Bilt,DE De Bilt;MI;UT
 NL;NL-UT-DV;;UT-DV;NL;NL gemeente,EN municipality,DE Gemeinde;NL De Ronde Venen,EN De Ronde Venen,DE De Ronde Venen;MI,NO;UT
+NL;NL-UT-DV-AB;;UT-DV-AB;NL;NL woonplaats,EN locality,DE Ort;NL Abcoude,EN Abcoude,DE Abcoude;NO;UT-DV
+NL;NL-UT-DV-BB;;UT-DV-BB;NL;NL woonplaats,EN locality,DE Ort;NL Baambrugge,EN Baambrugge,DE Baambrugge;NO;UT-DV
 NL;NL-UT-EE;;UT-EE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Eemnes,EN Eemnes,DE Eemnes;NO;UT
 NL;NL-UT-HO;;UT-HO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Houten,EN Houten,DE Houten;MI;UT
 NL;NL-UT-IJ;;UT-IJ;NL;NL gemeente,EN municipality,DE Gemeinde;NL IJsselstein,EN IJsselstein,DE IJsselstein;MI;UT
