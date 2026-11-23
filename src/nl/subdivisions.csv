@@ -141,8 +141,15 @@ NL;NL-LI-WE;;LI-WE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Weert,EN Weert,
 NL;NL-NB;NL-NB;NB;NL;NL provincie,EN province,DE Provinz;NL Noord-Brabant,EN North Brabant,DE Nordbrabant;MI,ZU;
 NL;NL-NB-AC;;NB-AC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Alphen-Chaam,EN Alphen-Chaam,DE Alphen-Chaam;ZU;NB
 NL;NL-NB-AL;;NB-AL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Altena,EN Altena,DE Altena;MI,ZU;NB
+NL;NL-NB-AL-BB;;NB-AL-BB;NL;NL woonplaats,EN locality,DE Ort;NL Babyloniënbroek,EN Babyloniënbroek,DE Babyloniënbroek;ZU;NB-AL
+NL;NL-NB-AL-DR;;NB-AL-DR;NL;NL woonplaats,EN locality,DE Ort;NL Drongelen,EN Drongelen,DE Drongelen;ZU;NB-AL
 NL;NL-NB-AL-DU;;NB-AL-DU;NL;NL woonplaats,EN locality,DE Ort;NL Dussen,EN Dussen,DE Dussen;ZU;NB-AL
+NL;NL-NB-AL-EE;;NB-AL-EE;NL;NL woonplaats,EN locality,DE Ort;NL Eethen,EN Eethen,DE Eethen;ZU;NB-AL
+NL;NL-NB-AL-GE;;NB-AL-GE;NL;NL woonplaats,EN locality,DE Ort;NL Genderen,EN Genderen,DE Genderen;ZU;NB-AL
 NL;NL-NB-AL-HA;;NB-AL-HA;NL;NL woonplaats,EN locality,DE Ort;NL Hank,EN Hank,DE Hank;ZU;NB-AL
+NL;NL-NB-AL-ME;;NB-AL-ME;NL;NL woonplaats,EN locality,DE Ort;NL Meeuwen,EN Meeuwen,DE Meeuwen;ZU;NB-AL
+NL;NL-NB-AL-VE;;NB-AL-VE;NL;NL woonplaats,EN locality,DE Ort;NL Veen,EN Veen,DE Veen;ZU;NB-AL
+NL;NL-NB-AL-WA;;NB-AL-WA;NL;NL woonplaats,EN locality,DE Ort;NL Wijk en Aalburg,EN Wijk en Aalburg,DE Wijk en Aalburg;ZU;NB-AL
 NL;NL-NB-AS;;NB-AS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Asten,EN Asten,DE Asten;ZU;NB
 NL;NL-NB-BG;;NB-BG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bergeijk,EN Bergeijk,DE Bergeijk;ZU;NB
 NL;NL-NB-BH;;NB-BH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bernheze,EN Bernheze,DE Bernheze;ZU;NB
